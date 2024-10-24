@@ -1,0 +1,50 @@
+body {
+    background-color: #242223;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 1em;
+    border-radius: 5px;
+}
+
+img:hover {
+    box-shadow: 0 0 10px 5px #5e4760;
+
+}
+
+.list {
+    columns: 350px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font: bold 2em/1.5em Sans-serif;
+}
+
+button {
+    background-color: #242223;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5em 1em;
+    margin: 5px;
+    cursor: pointer;
+}
+
+input[type="text"] {
+    border-radius: 5px;
+    padding: 0.5em;
+    margin: 5px;
+    width: 90%;
+}
+
+header {
+    border-radius: 5px;
+    background-color: #32021f;
+    color: white;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+}
